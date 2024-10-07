@@ -1,5 +1,8 @@
 # Entry 1
-##### X/X/XX
+
+## Deciding on our Topic
+
+##### 10/7/24
 
 Text
 
