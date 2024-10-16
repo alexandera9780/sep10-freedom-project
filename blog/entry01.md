@@ -11,7 +11,7 @@ Currently, I am in the first steps of the Engineer Design Proccess, where you ha
 Some skills that I learned through this blog is how to research, patience, and I learned respect through the research I did.
 
 ##### How to Research
-When I found the time to try and research 
+When I found the time to try and research, I kept searching things up and not getting the results I was looking for. To try and fix this, I had to start searching things much more specific to help me get to what I needed to get. FOr example, I was searching for the official website for MMA, and for Taekwondo, but when I searched it, I was shown Wikipedia.
 
 [Next](entry02.md)
 
