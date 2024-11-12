@@ -9,9 +9,8 @@ Over the last month or so, I researched about the softwares and hardwares of mar
 ## Engineer Design Process 
 Right now, I believe I am in between stage 1 and stage 2 of my Engineer Design Process. I believe it's because I have nearly defined what the problem is, but from what I've gathered about the problem so far, I'm also asking myself why thats a problem in it. I've begun step 2 by doing research about things, for example we researched about softwares and hardwares. The next part of the Engineer Design Process is to fully transition into step 2 of the Engineer Design Process.
 
-
-
-
+## Skills
+The one main skill I can say I focused on throughout these last few weeks is time management. For example, seeing as how I have to go to taekwondo until late at night and I get home from school with barely enough time for anything, I was able to turn in, or at least do every single assignment, and get every research done on time. When compared to last blog, there were some assigments I had missing since before the blog, and my research was all sloppy, but now it looks more neater and it seems like thought was actually put into the contents of it this time.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
