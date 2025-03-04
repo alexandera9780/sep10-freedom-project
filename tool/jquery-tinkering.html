@@ -19,12 +19,13 @@
         <p id="test">This is a paragraph</p>
 <script>
     $(document).ready(function(){
-        $("#test").(function(){
-        alert("Paragraphs are short");
-            $(this).hide();
+        $("#test").hover(function(){
+        alert("Anna needs to take a chill pill");
     });
     });
-
+    $("#test").mouseleave(function(){
+        alert("Like, she seriously needs one");
+    });
 
 </script>
     </body>
