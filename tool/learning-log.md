@@ -15,7 +15,7 @@ $(“”)._____(function() {
 * jQuery tutorial in 12 videos Tutorial for Jquery
 
 ### 03/10/25:
-* Text
+* 
 
 
 <!--
