@@ -14,8 +14,10 @@ $(“”)._____(function() {
 });
 * jQuery tutorial in 12 videos Tutorial for Jquery
 
-### 03/10/25:
-* 
+### 03/17/25:
+* An event in jQuery is when a user goes to a website and does something, and then after doing it, something else happens in the website.
+* Connect id from html to your script.
+* There are many types of event triggers, like .hover, .click, .dblclick, .mouseout, etc.
 
 
 <!--
