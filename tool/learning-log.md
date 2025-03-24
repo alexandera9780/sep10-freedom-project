@@ -19,7 +19,13 @@ $(“”)._____(function() {
 * Connect id from html to your script.
 * There are many types of event triggers, like .hover, .click, .dblclick, .mouseout, etc.
 
-
+### 03/24/25:
+* It's possible to make elements appear and disappear using jQuery
+* Hide and Show, Fade are the two ways to make elements appear and disappear
+* If you want jQuery to show at the bottom, wither put it on the bottom or if at the top use $(document).ready(function() {});
+* If you want to target a specific img using jQuery, put it in $("#___")
+* .toggle can be used to do both show and hide
+* You can change the speed of how fast or slow things happen 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
