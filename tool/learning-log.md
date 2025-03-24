@@ -25,7 +25,10 @@ $(“”)._____(function() {
 * If you want jQuery to show at the bottom, wither put it on the bottom or if at the top use $(document).ready(function() {});
 * If you want to target a specific img using jQuery, put it in $("#___")
 * .toggle can be used to do both show and hide
-* You can change the speed of how fast or slow things happen 
+* You can change the speed of how fast or slow things happen
+<!--
+Video 5 minute 8:27
+>
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
