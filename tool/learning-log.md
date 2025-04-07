@@ -26,8 +26,12 @@ $(“”)._____(function() {
 * If you want to target a specific img using jQuery, put it in $("#___")
 * .toggle can be used to do both show and hide
 * You can change the speed of how fast or slow things happen
+
+### 04/07/25:
+* When making a jQuery function using to effect names you have to make sure you capitalize the first letter of the second one(example .fadeIn)
+* Speed and call makes the jQuery function run faster or slower
 <!--
-Video 5 minute 8:27
+Video 5 minute 9:36
 >
 <!--
 * Links you used today (websites, videos, etc)
