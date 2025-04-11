@@ -43,14 +43,14 @@ $(“”)._____(function() {
 $(document).ready(function(){
 $(".blablabla").hover(function(){
         $(".blablabla").animate({
-                position: absolute
-                color: blue
+               width: '400px'
+                height: '349px'
         });
 
 });
 });
 ### 04/11/25
-
+* We can
 <!--
 Video 5 minute 9:36
 >
