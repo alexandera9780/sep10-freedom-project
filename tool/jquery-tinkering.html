@@ -16,16 +16,10 @@
         <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <p id="test">This is a paragraph</p>
+        <p class="test">This is a paragraph</p>
 <script>
-     $(document).ready(function(){
-        $("#test").hover(function(){
-        alert("Anna needs to take a chill pill");
-    });
-    });
-    $("#test").click(function(){
+    $(".test").click(function(){
         $("#test").animate({
-                position: absolute
                 color: blue
         });
 
