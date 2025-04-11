@@ -23,9 +23,13 @@
         alert("Anna needs to take a chill pill");
     });
     });
-    $("#test").mouseleave(function(){
-        alert("Like, she seriously needs one");
-    });
+    $("#test").click(function(){
+        $("#test").animate({
+                position: absolute
+                color: blue
+        });
+
+});
 
 </script>
     </body>

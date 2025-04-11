@@ -30,6 +30,25 @@ $(“”)._____(function() {
 ### 04/07/25:
 * When making a jQuery function using to effect names you have to make sure you capitalize the first letter of the second one(example .fadeIn)
 * Speed and call makes the jQuery function run faster or slower
+
+### 04/08/25
+* .fadeToggle makes the function fade in and out, as oppose to one or the other
+* 1000=1 second
+* You can use .slideUp to make things slide from bottom to top
+* .slideDown makes things slide from bottom to top
+* Basically anything with Toggle at the end of it does both up and down actions
+* Use .animate to start an animation
+* When animating, you have to use curly brackets, and target the css to be changed
+* Example is
+$(document).ready(function(){
+$(".blablabla").hover(function(){
+        $(".blablabla").animate({
+                position: absolute
+                color: blue
+        });
+
+});
+});
 <!--
 Video 5 minute 9:36
 >
