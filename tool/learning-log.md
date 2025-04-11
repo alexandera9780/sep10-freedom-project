@@ -50,7 +50,7 @@ $(".blablabla").hover(function(){
 });
 });
 ### 04/11/25
-* We can
+* We can use pluses or minuses to keep increasing or decreasing the animation that you use. 
 <!--
 Video 5 minute 9:36
 >
