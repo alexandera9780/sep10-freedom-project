@@ -5,7 +5,8 @@
 * [Desktop]()
 
 ## Colors
-* `#`
+* `#006994` Sea Blue
+* 
 
 ## Fonts
 * [Text](URL)
