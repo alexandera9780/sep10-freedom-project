@@ -6,10 +6,10 @@
 
 ## Colors
 * `#006994` Sea Blue
-* 
+*
 
 ## Fonts
-* [Text](URL)
+* 
 
 ## Timeline
 4/28 - Finish plan.md, try to start html
