@@ -12,3 +12,7 @@ p{
 .card-title{
     color: #58355E;
 }
+
+.col-md-6{
+    background-color: black;
+}
