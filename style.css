@@ -18,5 +18,6 @@ p{
 }
 
 .card{
-    box-shadow
+    box-shadow: 5px 10px ;
+    background-color: black
 }
