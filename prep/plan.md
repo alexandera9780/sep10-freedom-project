@@ -9,7 +9,7 @@
 *
 
 ## Fonts
-* 
+*
 
 ## Timeline
 4/28 - Finish plan.md, try to start html
@@ -29,7 +29,7 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
@@ -40,4 +40,4 @@
 |   |   |
 |   |   |
 
--->
+
