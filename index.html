@@ -48,7 +48,6 @@
                 </li>
               </ul>
             </div>
-
           </nav>
         </div>
         <nav class="navbar navbar-dark bg-dark">
@@ -240,9 +239,12 @@
         <script>
             // JS
             $(document).ready(function(){
-              $("#button").click(function(){
-                $("#nav").fadeToggle(2500)
+              $("button").click(function(){
+                $("nav").toggle(2500)
                  });
+                });
+
+
         </script>
     </body>
 </html>
