@@ -6,10 +6,12 @@
 
 ## Colors
 * `#006994` Sea Blue
-*
+*  #E42535
+* #58355E
 
 ## Fonts
-*
+* Fleur de Leah
+* Kanchenjunga
 
 ## Timeline
 4/28 - Finish plan.md, try to start html
