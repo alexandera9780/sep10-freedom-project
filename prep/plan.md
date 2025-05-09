@@ -35,8 +35,8 @@
 
 | Name | Glows | Grows |
 | Edward | I like your idea on trying to make the navbar fade in and out | The fade in and out with the navbar doesn't work though. |
-|   |   |
-|   |   |
+|  Astrid | Good use of Bootstrap elements, I like the colors you picked | make your navbar stop thanos-snapping out of existence
+| Nayer |  Website is fire, the colors, the design of it is great | make the navbar not disapper like my hopes and dreams
 |   |   |
 |   |   |
 |   |   |
