@@ -34,7 +34,7 @@
 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| Edward | I like your idea on trying to make the navbar fade in and out | The fade in and out with the navbar doesn't work though. |
 |   |   |
 |   |   |
 |   |   |
