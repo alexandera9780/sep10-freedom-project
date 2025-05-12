@@ -18,7 +18,7 @@ p{
 }
 
 .card{
-    box-shadow: 5px 10px ;
+    box-shadow: 10px 15px 20px;
     background-color: black
 }
 
@@ -33,4 +33,11 @@ p{
 }
 #heat{
     font-family: Kanchenjunga;
+}
+
+#accordion{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  width: 25%;
 }
