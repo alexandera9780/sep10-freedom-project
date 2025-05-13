@@ -4,7 +4,7 @@
 * "So I suppose everybody knows who Bruce Lee is? Yes he's probably one of the most famous martial artists of all time. GIF of movie with nunchuks. Has anyone wondered how he's gotten to the mastery that he has? Well, let me show you today."
 
 ## Product
-* 
+* I will show off my presentation through pictures, I will 
 
 ## Process
 *
