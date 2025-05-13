@@ -41,3 +41,11 @@ p{
   transform: translate(-50%);
   width: 80%;
 }
+
+#cards{
+    left: 35%;
+}
+
+#tall{
+    height: 70%;
+}
