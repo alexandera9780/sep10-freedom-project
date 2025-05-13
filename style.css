@@ -46,6 +46,6 @@ p{
     left: 35%;
 }
 
-#tall{
-    height: 70%;
+.card-body{
+    height: 90px;
 }
