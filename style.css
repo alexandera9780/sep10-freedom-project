@@ -46,4 +46,6 @@ p{
     left: 35%;
 }
 
-
+.accordion-body{
+    color: red;
+}
