@@ -4,13 +4,19 @@
 * "So I suppose everybody knows who Bruce Lee is? Yes he's probably one of the most famous martial artists of all time. GIF of movie with nunchuks. Has anyone wondered how he's gotten to the mastery that he has? Well, let me show you today."
 
 ## Product
-* I will show off my presentation through pictures, I will take pictures of certain parts of the code, as well as designs for the product
+* Pictures of the product
+* Pictures of the code
+* Product designs
 
 ## Process
-* I will talk about my process by talking about my biggest challenges, which was 
+* I will talk about my process by talking about my biggest challenges, which was figuing out how to use the jQuery,
+* Why I decided to pick my topic(I've done it for years and feel like it's a good skill for people to know in todays society)
 
 ## Conclusion
-*
+* Takeaways: Just because something isn't working doesn't mean you should just give up on it
+ex. Before jQuery, there was supposed to be React, but after I couldn't figure it out in 20 minutes, I moved onto jQuery, and then realized it takes more than 20 minutes to get some basics.
+* Expect the unexpected to happen
+ex. While adding my tool into my code, I expected my navbar to open and close the way I wanted it to, but it didn't, and with trial and error, I got it to slightly work the way I wanted it to.
 
 <!-- EXAMPLE
 
