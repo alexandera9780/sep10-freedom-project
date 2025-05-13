@@ -7,7 +7,7 @@
 * I will show off my presentation through pictures, I will take pictures of certain parts of the code, as well as designs for the product
 
 ## Process
-* I will talk about my process by talking about my biggest challenges 
+* I will talk about my process by talking about my biggest challenges, which was 
 
 ## Conclusion
 *
