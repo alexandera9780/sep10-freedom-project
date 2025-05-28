@@ -1,16 +1,16 @@
 # SEP10 Freedom Project
-by **X**
+by **Alexander Alvarado**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Martial Arts**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **jQuery** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](alexandera9780.github.io/sep10-freedom-project)
 
 [Presentation]()
 
