@@ -17,7 +17,7 @@ At this point in the freedom project, we have done everything and are at the ver
 Besides having to have some sort of professionalism while writing, there's also a level of professionalism that needs to be kept when doing things like presentations. When doing the elevator pitch, it was different since it was much more relaxed, but when doing official presentations in front of the class, you needed to do some basic things like posture up, speak clear and precise, and then not doing any funny buisness while up presenting was many of the key aspects to a great presentation.
 
 #### Leadership
-This skill is a very important skill to have no matter what you work in or what you're doing, leadership is important. Taking action and taking the initiative is a very important thing to have. While leadership couldn't be shown during in class presentations, leadership could be seen a lot during expos, when people would walk up to your presentation and ask to be presented to, but also going up to people and starting the pitch, that's one of the biggest ways leadership was shown since the last blog entry. 
-[Previous](entry06.md) | [Next](entry08.md)
+This skill is a very important skill to have no matter what you work in or what you're doing, leadership is important. Taking action and taking the initiative is a very important thing to have. While leadership couldn't be shown during in class presentations, leadership could be seen a lot during expos, when people would walk up to your presentation and ask to be presented to, but also going up to people and starting the pitch, that's one of the biggest ways leadership was shown since the last blog entry.
+[Previous](entry06.md) 
 
 [Home](../README.md)
